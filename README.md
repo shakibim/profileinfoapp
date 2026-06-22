@@ -1,16 +1,3 @@
-# personalprofileapp
+A simple profile flutter app 
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="360" height="800" alt="WhatsApp Image 2026-06-23 at 02 11 57" src="https://github.com/user-attachments/assets/5fce43f3-5714-45d2-95b5-cc679d50dc1f" />
